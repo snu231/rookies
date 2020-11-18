@@ -172,3 +172,10 @@
 - Public IPv4 DNS: http://ec2-3-139-64-239.us-east-2.compute.amazonaws.com
 - HTTP Domain: 
 - HTTPS Domain: 
+
+### 이세원([@snu231](https://github.com/snu231/waffle-rookies-18.5-backend-2))
+- 한 마디: 감사합니다
+- Public IPv4 address: http://18.221.167.67
+- Public IPv4 DNS: http://ec2-18-221-167-67.us-east-2.compute.amazonaws.com
+- HTTP Domain: 
+- HTTPS Domain: 
